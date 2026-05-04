@@ -1,16 +1,19 @@
-## Hi there 👋
+# hey 👋 i'm Saugat
 
-<!--
-**SaugatGauli/SaugatGauli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just coding stuff and figuring things out
 
-Here are some ideas to get you started:
+## 🧪 what i'm doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* learning by building random things
+* trying AI tools
+* breaking code & fixing it
+
+## 🚀 projects
+
+* ai-content-repurposer (work in progress)
+
+## 🌱 currently
+
+* improving slowly
+* staying consistent
+
